@@ -1,0 +1,61 @@
+
+.App-header {
+    background: linear-gradient(to right, #343f49, #2d3544);
+    padding: 20px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+h1 {
+  font-size:40px;
+}
+
+  nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+
+
+  nav a:hover {
+    color: #f8c42f;
+  }
+  
+  
+ 
+.header {
+  background: linear-gradient(45deg, #1f1f1f, #5c5c5c);
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo-div {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 50px;
+  height: auto;
+  margin-right: 15px;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+
+
